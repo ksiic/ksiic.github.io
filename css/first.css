@@ -1,0 +1,10 @@
+	
+	A:link {color: red; text-decoration: none;}
+	A:visited {color:#ff00ff; text-decoration: none;}
+	A:hover {color:brown; text-decoration: underline;}
+	A:active {color:green; text-decoration: underline;}
+
+.body{
+	margin: 0px;
+}
+  div{position:relative; left: 10 px; top:10 px;}
